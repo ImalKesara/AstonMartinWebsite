@@ -1,0 +1,151 @@
+body {
+  color: var(--bs-body-bg);
+  background: rgb(0,0,0);
+}
+
+#hero {
+  width: 100%;
+  height: 100vh;
+  background: url("../../assets/img/aston_martin_dbs_770_ultimate_2023_8k_3-HD.jpg") center / cover no-repeat;
+}
+
+@media (min-width: 768px) {
+  #hero {
+    background: url("../../assets/img/aston_martin_dbs_770_ultimate_2023_8k_3-HD.jpg") center / cover no-repeat;
+  }
+}
+
+.navbar-brand {
+}
+
+a {
+}
+
+h1 {
+  color: var(--bs-light-text-emphasis);
+}
+
+#title {
+  margin-top: 5px;
+}
+
+.paratop {
+  font-size: 30px;
+}
+
+.reverse-button {
+}
+
+.reverse-btn {
+  background: rgba(44,51,62,0);
+  border: 2px solid wheat;
+  border-radius: 10px;
+  margin-left: 32px;
+  margin-top: 10px;
+  color: var(--bs-btn-color);
+}
+
+.botbtn {
+  font-size: 16px;
+  text-align: center;
+  display: block;
+  margin-left: 400PX;
+}
+
+.botbutn {
+  color: var(--bs-secondary-bg);
+  border-radius: 6px;
+  transform: scale(1.62);
+}
+
+#hero-bottom.container {
+}
+
+#hero-bottom .container {
+  width: 663px;
+}
+
+.witeborder {
+  border: 1px solid white;
+  border-top: 0px;
+  border-bottom: 0px;
+}
+
+.wwborder {
+  border: 1px solid white;
+  border-bottom: 0px;
+  border-top: 0px;
+}
+
+#videoands {
+  text-align: center;
+}
+
+#videoands iframe {
+  width: 90%;
+  height: 400px;
+}
+
+@media (min-width: 768px) {
+  #videoands iframe {
+    width: 90%;
+    height: 383px;
+  }
+}
+
+@media (min-width: 992px) {
+  #statics {
+    background: var(--bs-secondary-color);
+    width: 600px;
+    margin: 0 auto;
+    opacity: 0.57;
+    margin-top: 9px;
+    font-size: 15px;
+    border-style: none;
+    border-color: var(--bs-secondary-bg);
+  }
+}
+
+#statics {
+  background: var(--bs-secondary-color);
+  width: 600px;
+  margin: 0 auto;
+  opacity: 0.57;
+  margin-top: 9px;
+  font-size: 15px;
+  border-style: none;
+  border-color: var(--bs-secondary-bg);
+}
+
+.table-left {
+  text-align: left;
+}
+
+.table-right {
+  text-align: right;
+}
+
+#aero {
+  width: 100%;
+  height: 100vh;
+  background: url("../../assets/img/back.jpg") center / cover no-repeat;
+}
+
+#aero .container {
+}
+
+#inter .figure {
+}
+
+#inter .figure-caption {
+}
+
+#aston {
+}
+
+#astone .container {
+}
+
+.container {
+}
+
